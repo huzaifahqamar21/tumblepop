@@ -164,6 +164,7 @@ int main()
 	lvl[7][8] = '#';
 	lvl[7][9] = '#';
 	lvl[7][10] = '#';
+	lvl[8][10] = '#';
 
 	Event ev;
 	//main loop
@@ -209,4 +210,5 @@ int main()
 
 	return 0;
 }
+
 
